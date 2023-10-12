@@ -1,6 +1,6 @@
 # interno
 
-## Project setup
+## Project setuup
 ```
 npm install
 ```
